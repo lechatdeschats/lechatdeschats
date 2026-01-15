@@ -17,10 +17,6 @@
 
 ###
 
-<p align="center">&nbsp&nbsp&nbsp&nbsp
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lechatdeschats&show_icons=true&theme=radical" alt="my Github Stats"/>
-</p>
-
 <h3 align="center">Check out my socials!</h3>
 <h6 align="center"></h6>
 
